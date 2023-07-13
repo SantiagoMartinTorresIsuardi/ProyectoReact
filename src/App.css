@@ -4,7 +4,10 @@
   box-sizing: border-box;
   font-family: sans-serif;
 }
+.fondo {
+  background-image: url(https://img.freepik.com/vector-gratis/hipster-ropa-moda-doodle-patron_1284-6445.jpg?w=2000);
 
+}
 :root {
   --clr-main: #AFDBF5;
   --clr-main-light: #efdaf9;
